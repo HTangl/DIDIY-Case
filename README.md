@@ -2,9 +2,9 @@
 
 ![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/DIDIY%20Case%20Front.jpg)  
 
-The DIDIY case is a layered case design specifically made for the DIDIY board.  
- 
-It uses the **[HTangl layout](https://www.htangl.com/details)**.  
+The DIDIY case is a layered case design specifically made for the DIDIY board. It uses the **[HTangl layout](https://www.htangl.com/details)**.  
+
+For a video guide on how to assemble the case please visit the [HTangl YouTube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w)
  
 You can use the DXF files in this repository to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are definitely other websites you can get the panels from but I am most familiar with SCS and have been ordering from them without issue for several months.  
 

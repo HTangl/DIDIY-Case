@@ -1,2 +1,2 @@
 # DIDIY Case
- A Layered Case Design for the DIDIY Board
+ The DIDIY case is a layered case design specifically made for the DIDIY board

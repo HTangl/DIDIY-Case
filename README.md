@@ -8,7 +8,7 @@ For a video guide on how to assemble the case please visit the [HTangl YouTube c
  
 You can use the DXF files in this repository to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are definitely other websites you can get the panels from but I am most familiar with SCS and have been ordering from them without issue for several months.  
 
-### Hardware ###  
+### - Hardware - ###  
 
 For hardware you will need the following:  
 7 - Case Screws - M5 x 0.80mm, 25mm Long  
@@ -33,7 +33,7 @@ https://amazon.com/dp/B01BBOZGKC - DIDIY Mounting Screws
 https://amazon.com/dp/B01IWUSDYY - DIDIY Mounting Nuts  
 https://amazon.com/dp/B07MX9BMXM - Washers  
 
-### Panel Ordering Guide ###  
+### - Panel Ordering Guide - ###  
 
 Here's a list of the material/thickness/quantity needed for each panel:  
 Bottom Panel - Clear Acrylic 3mm - 1  
@@ -67,6 +67,6 @@ We now need to select what material to use for this panel, refrenece the list at
 
 Please keep in mind that if you choose to deviate from the recommended material/thickness/quantity of any of these parts the case may not work with the recommended hardware or might not have enough space for the componenets/wiring to fit inside. Generally it's okay to change the type of material but I recommend sticking to the listed thickness/quantity for each panel.  
 
-### License ###  
+### - License - ###  
 
 This repository is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the controller for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.

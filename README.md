@@ -8,6 +8,8 @@ For a video guide on how to assemble the case please visit the [HTangl YouTube c
  
 You can use the DXF files in this repository to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are definitely other websites you can get the panels from but I am most familiar with SCS and have been ordering from them without issue for several months.  
 
+If you would like to have 2 extra menu buttons for Select/Home make sure to use the DXF files in the "Select and Home buttons" folder. These replace the standard switch plate and top panel DXF files.  
+
 ### - Hardware - ###  
 
 For hardware you will need the following:  

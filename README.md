@@ -2,7 +2,7 @@
 
 ![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/DIDIY%20Case%20Front.jpg)  
 
-The DIDIY case is a layered case design specifically made for the DIDIY board. It uses the **[HTangl layout](https://www.htangl.com/details)**.  
+The DIDIY case is a layered case design specifically made for the DIDIY board. It uses the **[HTangl layout](https://www.htangl.com/layout)**.  
 
 For a video guide on how to assemble the case please visit the [HTangl YouTube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w)
  

@@ -60,15 +60,15 @@ Click on the "Add to cart" button next to the file you just uploaded.
 ![](https://github.com/HTangl/DIDIY-Case/blob/main/Pictures/Ordering%20Guide/03.png)  
 
 **Step 5**  
-We now need to select what material to use for this panel, refrenece the list at the start of this guide to determine which material/thickness/quantity to select.  
+We now need to select what material to use for this panel, reference the list at the start of this guide to determine which material/thickness/quantity to select.  
 ![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/Ordering%20Guide/04.png)  
 
  **Step 6**  
  Once you reach this screen click "ADD TO CART", you will then get a notification that the item was added to your cart. You'll then need to click on "ADD MORE DRAWINGS", this will take you back to the screen you were at in step 4. All you need to do now is drag another DXF file onto the window and repeat the process for all the remaining panels.  
 ![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/Ordering%20Guide/07.png)  
 
-Please keep in mind that if you choose to deviate from the recommended material/thickness/quantity of any of these parts the case may not work with the recommended hardware or might not have enough space for the componenets/wiring to fit inside. Generally it's okay to change the type of material but I recommend sticking to the listed thickness/quantity for each panel.  
+Please keep in mind that if you choose to deviate from the recommended material/thickness/quantity of any of these parts the case may not work with the recommended hardware or might not have enough space for the components/wiring to fit inside. Generally it's okay to change the type of material but I recommend sticking to the listed thickness/quantity for each panel.  
 
 ### - License - ###  
 
-This repository is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the controller for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.
+This repository is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the controller for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.

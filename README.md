@@ -5,7 +5,7 @@
 The DIDIY case is a case design specifically made for the [DIDIY board](https://github.com/HTangl/DIDIY). It uses the **[HTangl layout](https://www.htangl.com/layout)**
 
 For a video guide on how to assemble the layered version of the case please visit the [HTangl YouTube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w).  
-Although this guide only shows the layered case the assembly is essentially the same for the 3D printable version, there are just lest layers since the main part of the case is one big piece.
+Although this guide only shows the layered case the assembly is essentially the same for the 3D printable version, there are just less layers since the main part of the case is one big piece.
  
 There are 2 versions of the case in this repository
 

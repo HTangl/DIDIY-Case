@@ -27,7 +27,7 @@ There are a few different ways to print a case, below are some suggestions.
 
 **Fully Printed Option** - Print the main case + bottom and top panel, make sure to use the files in the "Select and Home buttons" folder if you want those buttons. You can exclude the top panel if you want to save filament/time, if you do this you will need to use 18mm case screws instead of the default 25mm ones.
 
-**Print + Laser Cut Option** - Print the main case then order 2 3mm top panels and 1 3mm bottom panel from SendCutSend, I recommend clear acrylic but you can use any material you want. This method has the advantage of allowing you to easily add artwork to the case. It also adds a little bit of rigidity because the top and bottom panels will be one big piece instead of split.
+**Print + Laser Cut Option** - Print the main case then use the DXF files to order 2 3mm top panels and 1 3mm bottom panel from SendCutSend, I recommend clear acrylic but you can use any material you want. This method has the advantage of allowing you to easily add artwork to the case. It also adds a little bit of rigidity because the top and bottom panels will be one big piece instead of split.
 
 ## Adding Artwork
 

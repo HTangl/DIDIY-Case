@@ -25,15 +25,15 @@ The main body of the case is printed in 2 halves which then slot together and ar
 
 There are a few different ways to print a case, below are some suggestions.
 
-**1. Fully Printed Option** - Print the main case + bottom and top panel, make sure to use the files in the "Select and Home buttons" folder if you want those buttons. You can exclude the top panel if you want to save filament/time, if you do this you will need to use 18mm case screws instead of the default 25mm ones.
+**Fully Printed Option** - Print the main case + bottom and top panel, make sure to use the files in the "Select and Home buttons" folder if you want those buttons. You can exclude the top panel if you want to save filament/time, if you do this you will need to use 18mm case screws instead of the default 25mm ones.
 
-**2. Print + Laser Cut Option** - Print the main case then order 2 3mm top panels and 1 3mm bottom panel from SendCutSend, I recommend clear acrylic but you can use any material you want. This method has the advantage of allowing you to easily add artwork to the case. It also adds a little bit of rigidity because the top and bottom panels will be one big piece instead of split.
+**Print + Laser Cut Option** - Print the main case then order 2 3mm top panels and 1 3mm bottom panel from SendCutSend, I recommend clear acrylic but you can use any material you want. This method has the advantage of allowing you to easily add artwork to the case. It also adds a little bit of rigidity because the top and bottom panels will be one big piece instead of split.
 
-### Adding Artwork
+## Adding Artwork
 
 If you want to add artwork to your case you can use the art template PDF's in this repository to design your own artwork and then either print it at home or at a print shop. I have a [guide on youtube](https://www.youtube.com/watch?v=gcbOZa_CNWk&t) that goes over how to prepare the file for printing, it was made for the HTangl but all the principals still apply.
 
-### Hardware
+## Hardware
 
 For hardware you will need the following:  
 7 - Case Screws - M5 x 0.80mm, 25mm Long  
@@ -58,7 +58,7 @@ https://amazon.com/dp/B01BBOZGKC - DIDIY Mounting Screws
 https://amazon.com/dp/B01IWUSDYY - DIDIY Mounting Nuts  
 https://amazon.com/dp/B07MX9BMXM - Washers  
 
-### SCS Ordering Guide
+## SCS Ordering Guide
 
 Here's a list of the material/thickness/quantity needed for each panel:  
 Bottom Panel - Clear Acrylic 3mm - 1  
@@ -92,6 +92,6 @@ We now need to select what material to use for this panel, reference the list at
 
 Please keep in mind that if you choose to deviate from the recommended material/thickness/quantity of any of these parts the case may not work with the recommended hardware or might not have enough space for the components/wiring to fit inside. Generally it's okay to change the type of material but I recommend sticking to the listed thickness/quantity for each panel.  
 
-### - License - ###  
+## License 
 
 This repository is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the case for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.

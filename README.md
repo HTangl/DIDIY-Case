@@ -1,16 +1,39 @@
 # DIDIY Case
 
-![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/DIDIY%20Case%20Front.jpg)  
+![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/DIDIY%20Case%20Front.jpg)
 
-The DIDIY case is a layered case design specifically made for the DIDIY board. It uses the **[HTangl layout](https://www.htangl.com/layout)**.  
+The DIDIY case is a case design specifically made for the [DIDIY board](https://github.com/HTangl/DIDIY). It uses the **[HTangl layout](https://www.htangl.com/layout)**
 
-For a video guide on how to assemble the case please visit the [HTangl YouTube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w)
+For a video guide on how to assemble the layered version of the case please visit the [HTangl YouTube channel](https://www.youtube.com/channel/UCIHJYzL-LAS2CVR-Q0J305w).  
+Although this guide only shows the layered case the assembly is essentially the same for the 3D printable version, there are just lest layers since the main part of the case is one big piece.
  
-You can use the DXF files in this repository to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are definitely other websites you can get the panels from but I am most familiar with SCS and have been ordering from them without issue for several months.  
+There are 2 versions of the case in this repository
 
-If you would like to have 2 extra menu buttons for Select/Home make sure to use the DXF files in the "Select and Home buttons" folder. These replace the standard switch plate and top panel DXF files.  
+## Layered Version
 
-### - Hardware - ###  
+You can use the DXF files to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are other websites you can get the panels from SCS is just the site I use. There is a guide on how to order the panels from SCS below.
+
+If you would like to have 2 extra menu buttons for Select/Home make sure to use the DXF files in the "Select and Home buttons" folder. These replace the standard switch plate and top panel DXF files.
+
+## 3D Printable Version
+
+![](https://raw.githubusercontent.com/HTangl/DIDIY-Case/main/Pictures/DIDIY%20Case%203D%20Front%202.jpg)
+
+You can use the STL files to print a case yourself, this version of the case still requires the hardware listed below minus the 8 M3 washers.
+
+The main body of the case is printed in 2 halves which then slot together and are glued in place, while you can use super glue I recommend using a strong 2 part epoxy such as JB weld. The surface area is somewhat limited so the stronger the glue the better.
+
+There are a few different ways to print a case, below are some suggestions.
+
+**1. Fully Printed Option** - Print the main case + bottom and top panel, make sure to use the files in the "Select and Home buttons" folder if you want those buttons. You can exclude the top panel if you want to save filament/time, if you do this you will need to use 18mm case screws instead of the default 25mm ones.
+
+**2. Print + Laser Cut Option** - Print the main case then order 2 3mm top panels and 1 3mm bottom panel from SendCutSend, I recommend clear acrylic but you can use any material you want. This method has the advantage of allowing you to easily add artwork to the case. It also adds a little bit of rigidity because the top and bottom panels will be one big piece instead of split.
+
+### Adding Artwork
+
+If you want to add artwork to your case you can use the art template PDF's in this repository to design your own artwork and then either print it at home or at a print shop. I have a [guide on youtube](https://www.youtube.com/watch?v=gcbOZa_CNWk&t) that goes over how to prepare the file for printing, it was made for the HTangl but all the principals still apply.
+
+### Hardware
 
 For hardware you will need the following:  
 7 - Case Screws - M5 x 0.80mm, 25mm Long  
@@ -35,7 +58,7 @@ https://amazon.com/dp/B01BBOZGKC - DIDIY Mounting Screws
 https://amazon.com/dp/B01IWUSDYY - DIDIY Mounting Nuts  
 https://amazon.com/dp/B07MX9BMXM - Washers  
 
-### - Panel Ordering Guide - ###  
+### SCS Ordering Guide
 
 Here's a list of the material/thickness/quantity needed for each panel:  
 Bottom Panel - Clear Acrylic 3mm - 1  
@@ -71,4 +94,4 @@ Please keep in mind that if you choose to deviate from the recommended material/
 
 ### - License - ###  
 
-This repository is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the controller for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.
+This repository is licensed under the CERN Open Hardware License Version 2 - Strongly Reciprocal. Please read the license in this repository and visit https://ohwr.org/cernohl for more information. This license allows you to make a modified or unmodified version of the case for yourself or to sell provided you follow the guidelines of the license. The strongly reciprocal version of the license I have chosen requires that you use this same license if you decide to make modifications to any of the files in this repository.

@@ -11,7 +11,7 @@ There are 2 versions of the case in this repository
 
 ## Layered Version
 
-You can use the DXF files to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are other websites you can get the panels from SCS is just the site I use. There is a guide on how to order the panels from SCS below.
+You can use the DXF files to order all the panels needed from a laser cutting website like [SendCutSend](https://sendcutsend.com/). There are other websites you can get the panels from, SCS is just the site I use. There is a guide on how to order the panels from SCS below.
 
 If you would like to have 2 extra menu buttons for Select/Home make sure to use the DXF files in the "Select and Home buttons" folder. These replace the standard switch plate and top panel DXF files.
 
